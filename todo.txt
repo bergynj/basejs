@@ -1,0 +1,10 @@
+
+Minimum Marketing Features:
+
+
+User Stories:
+
+
+Engineering Tasks:
+* automated build using jake (install jake locally - use jake.sh as shortcut)
+- static code analysis (Lint)
