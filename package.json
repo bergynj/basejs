@@ -1,0 +1,24 @@
+{
+  "name": "basejs",
+  "version": "1.0.0",
+  "description": "Basic boilerplate for node.js app",
+  "main": "jakefile.js",
+  "dependencies": {
+    "jake": "^8.0.10",
+    "jshint": "^2.5.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bergynj/basejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bergynj/basejs/issues"
+  },
+  "homepage": "https://github.com/bergynj/basejs"
+}

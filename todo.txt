@@ -1,10 +1,16 @@
 
 Minimum Marketing Features:
-
+* Homepage
+- Integrating with a HTML5 boilerplate
+- Integrating with Foundation Framework
 
 User Stories:
-
+- Create a base HTML5 project
+- Refactor HTML5 project
 
 Engineering Tasks:
 * automated build using jake (install jake locally - use jake.sh as shortcut)
-- static code analysis (Lint)
+- Static code analysis (Lint)
+- Continous integration
+- Server-side testing
+- Client-side testing
